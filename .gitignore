@@ -27,6 +27,11 @@ build/Release
 node_modules
 jspm_packages
 
+db.json
+*.log
+public/
+.deploy*/
+
 # Optional npm cache directory
 .npm
 
